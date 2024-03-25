@@ -22,6 +22,11 @@ Contributions, feedback, and suggestions from the open-source community are welc
 ## Conclusion:
 This GitHub repository serves as a comprehensive resource for analyzing healthcare appointment data and deriving actionable insights to enhance patient care and operational efficiency. By fostering collaboration and knowledge sharing, we aim to drive continuous improvement in healthcare delivery and patient outcomes.
 
+## Resources:
+* Software: Google Colab
+* Languages: Python
+* Libraries: numpy, pandas, matplotlib, seaborn, ggplot
+
 
 
 
